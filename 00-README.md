@@ -44,8 +44,10 @@ The best templates frame timelines as constraints, not deadlines:
 
 This aligns teams on tradeoffs rather than creating false precision.
 
-### 4. The "How" Belongs to Engineering
+### 4. The "How" Belongs to Engineering*
 
+* with understanding all high-performing teams have a strong Design/Design Engineering pillar in their org.
+* 
 A clean separation of altitude appears in:
 - ICANotes+ Feature Brief: "The 'how' belongs to engineering"
 - Shape Up: Solution stays at fat-marker level, builders fill in details
