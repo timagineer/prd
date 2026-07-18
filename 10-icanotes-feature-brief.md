@@ -4,7 +4,6 @@
 > Authored by the PM, aligned with engineering lead and product-and-engineering leadership before the broader team picks up work.
 > Deliberately stops short of fine-grained user stories: stories derived from it carry intent and acceptance criteria, not exhaustive specification.
 > Target length: 1-3 pages.
-> Source: AWS Principal PM (shared internally for ICANotes+)
 
 ---
 
